@@ -36,10 +36,6 @@
             ;
     };
 
-	trackballs {
-		compatible = "zmk,keymap-trackballs";
-		trackballs = <&trackball>;
 	};
-};
 
 
