@@ -21,7 +21,6 @@
 		;
 };
 
-// trackball bus
 &pinctrl {
     spi0_default: spi0_default {
         group1 {
@@ -68,7 +67,3 @@
     device = <&trackball>;
   };
 };
-
-
-
-
