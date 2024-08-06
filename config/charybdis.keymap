@@ -20,7 +20,7 @@
 &kp LEFT_SHIFT  &kp A   &kp S   &kp D         &kp F      &kp G           &kp H          &kp J          &kp K      &kp L      &kp SEMI   &kp SQT
 &kp LCTRL       &kp Z   &kp X   &kp C         &kp V      &kp B           &kp N          &kp M          &kp COMMA  &kp SLASH  &kp MINUS  &kp BSLH
                                 &kp LEFT_ALT  &kp SPACE  &kp LEFT_WIN    &kp PG_UP      &kp BACKSPACE  &kp ENTER
-                                              &kp CAPS   &mo 1           &kp PAGE_DOWN  &kp DELETE
+                                              &mo 1      &kp CAPS        &kp PAGE_DOWN  &kp DELETE
             >;
         };
 
